@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 75vh;
+    margin-bottom:2%
+}
+.childSignIn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}

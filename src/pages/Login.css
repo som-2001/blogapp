@@ -1,0 +1,21 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    min-height: 83vh
+}
+
+#loginChild{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+#loginBtn{
+    margin-top: 1px;
+    padding: 13px;
+    background-color: #4d88d3;
+    border-radius: 29px;
+    width:200px
+}

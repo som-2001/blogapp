@@ -1,0 +1,33 @@
+.Navbar{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    
+}
+.hide{
+    display: none;
+}
+.Navbar1>p{
+    font-weight:700;
+    font-size:1.4rem
+}
+.Navbar2{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 20px;
+    margin-right: 73px;
+    cursor: pointer;
+   
+}
+.Navbar1{
+    margin-left: 13px;
+    padding: 20px;
+    cursor: pointer;
+  
+}
+.navlink{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}

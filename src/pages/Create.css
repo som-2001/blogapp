@@ -1,0 +1,13 @@
+.grid{
+     margin-top: 29px;
+     display:flex;
+     flex-direction:column;
+     justify-content:center;
+     align-items:center
+}
+#btn{
+    border-radius:25px;
+    margin-top: 50px;
+    width:120px;
+    padding:10px
+}

@@ -1,0 +1,41 @@
+.responsiveNavbar{
+    display: flex;
+    flex-direction: column;
+    /* padding: 20px; */
+    margin-top:20px;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.navlink1{
+    font-weight: 400;
+}
+.hide{
+    display: none;
+}
+
+.responsiveNavbar>div{
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+    width:100vw;
+    justify-content:flex-start;
+    margin-left:27px
+}
+
+.MenuIcon{
+    /* background-color:#5b5bcd; */
+    padding:10px;
+    color:black;
+    margin-top:10px;
+    display:flex;
+    gap:10px
+   
+}
+
+.MenuIcon>span{
+    font-weight:100;
+    font-size:1.0rem
+}

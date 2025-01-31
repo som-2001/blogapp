@@ -1,0 +1,17 @@
+.dialog{
+    position: fixed;
+    top: 40vh;
+    left: 0vw;
+    border: none;
+    padding: 30px;
+    height: 116px;
+    border-radius: 10px;
+    box-shadow: -1px 0px 7px 4px whitesmoke;
+    z-index:100
+}
+#img{
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px
+}

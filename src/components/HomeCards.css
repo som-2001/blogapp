@@ -1,0 +1,40 @@
+.parent {
+  margin-bottom: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: whitesmoke;
+  margin-top: 5px;
+}
+.img {
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+.noPostAvailable {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+#homeCardsimg {
+  width: 290px;
+  height: 300px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+#homeCardsChid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}

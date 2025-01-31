@@ -1,0 +1,22 @@
+.deleteDialog {
+  position: fixed;
+  top: 40vh;
+  left: 0vw;
+  z-index: 600;
+  border: none;
+  padding: 30px;
+  height: 116px;
+  border-radius: 10px;
+  box-shadow: -1px 0px 7px 4px whitesmoke;
+}
+#dialog {
+  position: fixed;
+  top: 40vh;
+  z-index: 100;
+  left: 0vw;
+  border: none;
+  padding: 30px;
+  height: 176px;
+  border-radius: 10px;
+  box-shadow: -1px 0px 7px 4px whitesmoke;
+}

@@ -1,0 +1,35 @@
+.responsiveNavbar{
+    display: flex;
+    flex-direction: column;
+    margin-top:20px;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.responsiveNavbar>div{
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+    width:100vw;
+    justify-content:flex-start;
+    margin-left:27px
+}
+
+.MenuIcon{
+    /* background-color:#5b5bcd; */
+    padding:10px;
+    color:black;
+    margin-top:10px;
+    display:flex;
+    gap:10px;
+    width:100vw
+   
+}
+
+.MenuIcon>span{
+    font-weight:600;
+    font-size:1.0rem
+}

@@ -1,0 +1,16 @@
+#parent{
+    background-color:#f9f9f9
+}
+#child{
+    background-color:#f9f9f9;
+    padding:20px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    gap:10px
+}
+#lastChild{
+    margin-left:20px;
+    padding-bottom:5px
+}

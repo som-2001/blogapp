@@ -1,0 +1,43 @@
+#ReadParent{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center
+}
+
+#readAuthor{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center
+}
+
+#Community{
+  display: flex;
+  align-items: center;
+  flex-direction: column
+}
+#authorCard{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center
+}
+
+#socialMediaIcons{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  margin-bottom: 20px
+}
+
+@media screen and (max-width: 600px) {
+    .ql-editor img {
+      width: 100%; 
+      max-width: 300px;
+      height: auto; 
+    }
+  }
+  
